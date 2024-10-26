@@ -68,7 +68,7 @@ export default function Home() {
               Trusted by Professionals
             </h3>
             <div className="flex flex-wrap justify-center gap-8 text-gray-500">
-              {["Adobe", "Microsoft", "Google", "Amazon", "Apple"].map(
+              {["Adabe", "Mecrasoft", "Gooogli", "Amezan", "Bannana"].map(
                 (company) => (
                   <div
                     key={company}
